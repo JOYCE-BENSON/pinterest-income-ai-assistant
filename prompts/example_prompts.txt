@@ -1,0 +1,12 @@
+User: “Find a good Pinterest niche for a Kenyan audience interested in fashion.”
+
+AI:
+- Niche suggestion: thrifted fashion + affordable style
+- Keywords: thrift dresses, affordable Kenyan style, how to style thrift outfits, Nairobi fashion inspo
+- Titles: 
+  1. “Affordable Thrift Style Ideas for Kenyan Girls”
+  2. “Cute Thrifted Outfits You Can Wear Anywhere”
+  3. “Kenyan Thrift Finds That Look Expensive”
+- Description: 
+  “Affordable and cute thrift outfit ideas you can recreate today. Perfect for everyday wear in Kenya. Save money and look stylish!”
+
